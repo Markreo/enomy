@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "test-d393f"
+  },
+  "targets": {
+    "test-d393f": {
+      "hosting": {
+        "test-d393f": [
+          "test-d393f"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
