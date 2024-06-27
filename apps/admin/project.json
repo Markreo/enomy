@@ -18,6 +18,12 @@
         "production": {
         }
       }
+    },
+    "test": {
+      "executor": "@nx/vite:test",
+      "options": {
+        "config": "apps/admin/vite.config.ts"
+      }
     }
   }
 }
